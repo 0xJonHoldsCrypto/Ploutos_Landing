@@ -10,7 +10,7 @@ This project is a [Next.js](https://nextjs.org) application built with:
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
 - **Data Fetching**: DefiLlama API (for TVL & Stats)
-- **Badges**: Custom CredShields Audit Badge
+- **Badges**: Custom CredShields Audit Badge (Placeholder)
 
 ## Getting Started
 
